@@ -1,0 +1,30 @@
+{
+  "name": "echoMonitor",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Monitors packets forwarded from an Amazon Echo and acts on commands received",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saasmath/echoMonitor"
+  },
+  "keywords": [
+    "Raspbery",
+    "Pi",
+    "Amazon",
+    "Echo"
+  ],
+  "author": "Gary Anderson",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.10.1",
+    "express": "^4.11.0"
+  },
+  "bugs": {
+    "url": "https://github.com/saasmath/echoMonitor/issues"
+  },
+  "homepage": "https://github.com/saasmath/echoMonitor"
+}
