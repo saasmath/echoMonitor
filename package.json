@@ -21,7 +21,8 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.10.1",
-    "express": "^4.11.0"
+    "express": "^4.11.0",
+    "onoff": "^1.0.0"
   },
   "bugs": {
     "url": "https://github.com/saasmath/echoMonitor/issues"
