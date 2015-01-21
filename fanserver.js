@@ -1,7 +1,7 @@
 // server.js
 
-//Run with: node PORT=8081 server.js
-//Run with ports below 1024 with sudo: node PORT=80 server.js
+//Run with: PORT=8081 node server.js
+//Run with ports below 1024 with sudo: PORT=80 node server.js
 
 // BASE SETUP
 // ==============================================
